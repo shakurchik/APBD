@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s28346\\.nuget\\packages\\": {}
+    "C:\\Users\\kilim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s28346\\Desktop\\APBD\\Task_3\\Task_3\\Task_3.csproj",
+      "projectUniqueName": "C:\\Users\\kilim\\Desktop\\APBD\\Task_3\\Task_3\\Task_3.csproj",
       "projectName": "Task_3",
-      "projectPath": "C:\\Users\\s28346\\Desktop\\APBD\\Task_3\\Task_3\\Task_3.csproj",
-      "packagesPath": "C:\\Users\\s28346\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s28346\\Desktop\\APBD\\Task_3\\Task_3\\obj\\",
+      "projectPath": "C:\\Users\\kilim\\Desktop\\APBD\\Task_3\\Task_3\\Task_3.csproj",
+      "packagesPath": "C:\\Users\\kilim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kilim\\Desktop\\APBD\\Task_3\\Task_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s28346\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\kilim\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\kilim\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
